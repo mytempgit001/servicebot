@@ -21,7 +21,8 @@ public class CustomErrorController implements ErrorController{
             if(statusCode == HttpStatus.NOT_FOUND.value()) {
                 return "404";
             }else if(statusCode == HttpStatus.INTERNAL_SERVER_ERROR.value()) {
-                return "error-500";
+            	System.out.println("500!!!!!!!!!!!!!!!!!!!!!!!!");
+                return "404";
             }
         }
     	

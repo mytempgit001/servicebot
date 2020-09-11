@@ -49,7 +49,7 @@
       <h2>What do we do?</h2><br>
       <h4>We are aimed to increase profits from your Internet shop. For now we work with such marketplace giant as Etsy. </h4><br>
       <p>We manipulate bots to help you in promoting your products among others. There are multiple options are available on our site and it is easy for you to choose specific ones.
-	  For instance you are able to increase views of listings, adding to cart, searching concrete listing among others, leaving comments, etc.</p>
+	  For instance you are able to increase views of listings, adding to cart, searching concrete listing among others, leaving comments, etc. If you are not pleased with results, we will return your money.</p>
 
     </div>
     <div class="col-sm-4">

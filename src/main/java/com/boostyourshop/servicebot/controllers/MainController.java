@@ -15,7 +15,7 @@ public class MainController {
 	}
 	
 	@PostMapping("/putReservation")
-	public String putReservation(Reservation reservation) {
+	public String putReservation(Reservation reservation) throws Exception {
 		System.out.println(reservation.toString());
 		return "successful";
 	}
